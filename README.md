@@ -1,3 +1,5 @@
+> **Archived 2026-07** — Tiny pixel-art/favicon sketchpad (2017).
+
 # Pixelpad
 
 A simple sketchpad for making favicons for your websites as well as pixel art.
